@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Page"
+title: 
 excerpt: 
 author_profile: true
 redirect_from: 
@@ -10,6 +10,5 @@ redirect_from:
 
 About Me
 ========
-
-I'm a first-year Ph.D. student of Electrical Engineering and Computer Science at UC Merced PANS LAB, advised
+I'm a first-year Ph.D. student of Electrical Engineering and Computer Science at UC Merced [PANS LAB](https://www.pans-lab.com/pans-lab), advised
 by Prof. Shijia Pan.
