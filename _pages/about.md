@@ -20,7 +20,7 @@ sdu14 AT ucmerced dot edu
 
 ## IOT Classification Challenge: Activity Detection
 <div >
-<img align="left" width="300" height="162" src="images/ActivityClassification.png">
+<img style="float: left; padding: 0px 3px 0px 0px" width="300" height="170"  src="images/ActivityClassification.png">
 Understanding human activities is an essential part in building a smart IOT environment. This project aims to use vision-based 
 methods to classify human activities, different interactions with a fridge, in an IOT scenario. We use detectron2 to extract 
 a skeleton representation of human gestures, which is simplified to the coordinates of 17 keypoints within a frame. The skeleton 
