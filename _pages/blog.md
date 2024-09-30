@@ -7,10 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-Here are some notes I took during learning. dddd
+Here are some notes I took during learning. aaaa
 
-- [Blog 1]({{ site.baseurl }}/blogs/blog1)
-- [Blog 2]({{ site.baseurl }}/blogs/blog2)
+
+{% assign blogs = site.pages | where: "path", "blogs/blog1.md" %}
+{% assign blogs = blogs | concat: site.pages | where: "path", "blogs/blog2.md" %}
+
+{% for blog in blogs %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 <!-- {% assign post = site.blogs | where: "path", "blog1.md" %}
 {% include archive-single.html %}
