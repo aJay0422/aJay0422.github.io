@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Here are some notes I took during learning.
+Here are some notes I took during learning. dddd
 
-- [Blog 1]({{ site.baseurl }}/blogs/blog1.md)
-- [Blog 2]({{ site.baseurl }}/blogs/blog2.md)
+- [Blog 1]({{ site.baseurl }}/blogs/blog1)
+- [Blog 2]({{ site.baseurl }}/blogs/blog2)
 
 <!-- {% assign post = site.blogs | where: "path", "blog1.md" %}
 {% include archive-single.html %}
