@@ -12,7 +12,7 @@ Welcome to my website. I'm a second-year Ph.D. student of Electrical Engineering
 by Prof. Shijia Pan. I obtained my B.S. degree and M.A. degree in Statistics from Nanjing University and Columbia University in 2021 and 2022, respectively.
 My research interests include machine learning, deep learning, and their applications in various fields.
 
-In daily life, I love singing songs and playing the guitar. Please visit my [channel](https://space.bilibili.com/18942867?spm_id_from=333.999.0.0) if you are interested.
+In daily life, I love playing video games, singing songs, and playing the guitar. Please visit my [channel](https://space.bilibili.com/18942867?spm_id_from=333.999.0.0) if you are interested.
 
 sdu14 AT ucmerced dot edu
 
