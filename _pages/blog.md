@@ -9,10 +9,6 @@ author_profile: true
 
 Here are some notes I took during learning. rrrr
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 {% for blog in site.blogs %}
   {% include archive-single.html %}
 {% endfor %}
