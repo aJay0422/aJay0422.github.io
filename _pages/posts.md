@@ -5,7 +5,7 @@ permalink: /posts/
 author_profile: true
 ---
 
-Here are some notes I took during learning interesting thins.
+Here are some notes I took during learning interesting things.
 
 [\[Study Notes\] Score-Matching Langevin Dynamics (SMLD)](http://ajay0422.github.io/files/Score-Matching_Langevin_Dynamics_(SMLD).html)
 
