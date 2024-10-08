@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shangjie Du(杜尚杰)"
-  avatar           : "./images/profile_photo_v1.png"
+  avatar           : "./images/profile.png"
   bio              : "Ph.D. Student"
   location         : "California, USA."
   employer         :
