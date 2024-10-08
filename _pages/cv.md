@@ -21,11 +21,11 @@ Work experience
   * Institute for Interdisciplinary Information Core Technology
   * Duties included: Factor Mining and Factor Investment Evaluation
 
-Skills
+<!-- Skills
 ======
 * Python, R, Matlab
 * Machine Learning
   * Statistical Learning 
   * Deep Learning
-  * Reinforcement Learning
+  * Reinforcement Learning -->
 
