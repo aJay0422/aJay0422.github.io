@@ -15,7 +15,7 @@ My research interests include machine learning, deep learning, and their applica
 In daily life, I love playing video games, singing songs, and playing the guitar. Please visit my [channel](https://space.bilibili.com/18942867?spm_id_from=333.999.0.0) if you are interested.
 
 Email: sdu14 AT ucmerced dot edu  
-Last updated: Oct 7, 2024
+Last updated: Oct 26, 2024
 
 <!-- # Research Projects
 
