@@ -14,3 +14,5 @@ Here are some notes I took during learning interesting things.
 <a href="http://ajay0422.github.io/files/Denoising Diffusion Implicit Models (DDIM).html" target="_blank">[Study Notes] Denoising Diffusion Implicit Models (DDIM)</a>
 
 <a href="http://ajay0422.github.io/files/Understanding Diffusion Models: A Unified Perspective.html" target="_blank">[Study Notes] (Updating) Understanding Diffusion Models: A Unified Perspective</a>
+
+<a href="http://ajay0422.github.io/files/Flow Matching For Generative Modeling.html" target="_blank">[Study Notes] (Updating) UFlow Matching For Generative Modeling</a>
