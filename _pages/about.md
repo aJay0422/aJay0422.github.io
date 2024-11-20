@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I'm a second-year Ph.D. student of Electrical Engineering and Computer Science at UC Merced [PANS LAB](https://www.panslab.com/), advised
-by Prof. Shijia Pan. I obtained my B.S. degree and M.A. degree in Statistics from Nanjing University and Columbia University in 2021 and 2022, respectively.
-My research interests include machine learning, deep learning, and their applications in various fields.
+Welcome to my website. I'm a second-year master student of ELectrical Engineering and Computer Science at UC Merced, advised by Professor [Meng Tang](http://mengtang.org/). Before that, I was a Ph.D student at UC Merced, advised by Professor [Shijia Pan](https://www.panslab.com/people)(joined in 2023 Aug, left at 2024 Nov). I obtained my B.S. degree and M.A. degree in Statistics from Nanjing University and Columbia University in 2021 and 2022, respectively. My research interests include deep learning, computer vision, and generative AI.
 
-In daily life, I love playing video games, singing songs, and playing the guitar. Please visit my [channel](https://space.bilibili.com/18942867?spm_id_from=333.999.0.0) if you are interested.
+
+<!-- Welcome to my website. I'm a second-year Ph.D. student of Electrical Engineering and Computer Science at UC Merced [PANS LAB](https://www.panslab.com/), advised
+by Prof. Shijia Pan. I obtained my B.S. degree and M.A. degree in Statistics from Nanjing University and Columbia University in 2021 and 2022, respectively.
+My research interests include machine learning, deep learning, and their applications in various fields. -->
+
+I love playing video games, singing songs, and playing the guitar. Please visit my [channel](https://space.bilibili.com/18942867?spm_id_from=333.999.0.0) if you are interested.
 
 Email: sdu14 AT ucmerced dot edu  
 <!-- Last updated: Oct 27, 2024 -->
