@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Statistics, Nanjing University, 2017-2021
 * M.A. in Statistics, Columbia University, 2021-2022
-* Ph.D Student in Computer Science, University of California, Merced, 2023-2024 (Advisor: Prof. [Shijia Pan](https://www.panslab.com/people))
+* Ph.D Student in Computer Science, University of California, Merced, 2023-2024 (Advisor: Prof. [Shijia Pan](https://www.panslab.com/news))
 * M.S. in Computer Science, University of California, Merced, 2024-present (Advisor: Prof. [Meng Tang](http://mengtang.org/))
 
 Work experience

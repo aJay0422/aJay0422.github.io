@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I'm a second-year master student of ELectrical Engineering and Computer Science at UC Merced, advised by Professor [Meng Tang](http://mengtang.org/). Before that, I was a Ph.D student at UC Merced, advised by Professor [Shijia Pan](https://www.panslab.com/people)(joined in 2023 Aug, left at 2024 Nov). I obtained my B.S. degree and M.A. degree in Statistics from Nanjing University and Columbia University in 2021 and 2022, respectively. My research interests include deep learning, computer vision, and generative AI.
+Welcome to my website. I'm a second-year master student of ELectrical Engineering and Computer Science at UC Merced, advised by Professor [Meng Tang](http://mengtang.org/). Before that, I was a Ph.D student at UC Merced, advised by Professor [Shijia Pan](https://www.panslab.com/news)(joined in 2023 Aug, left at 2024 Nov). I obtained my B.S. degree and M.A. degree in Statistics from Nanjing University and Columbia University in 2021 and 2022, respectively. My research interests include deep learning, computer vision, and generative AI.
 
 
 <!-- Welcome to my website. I'm a second-year Ph.D. student of Electrical Engineering and Computer Science at UC Merced [PANS LAB](https://www.panslab.com/), advised
