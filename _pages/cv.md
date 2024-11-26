@@ -21,6 +21,14 @@ Work experience
 * Summer 2020: Quantitative Investment Intern
   * Institute for Interdisciplinary Information Core Technology
   * Duties included: Factor Mining and Factor Investment Evaluation
+  
+Awards
+=====
+* BuildSys 2024: Best Paper Runner-Up Award
+* MobiSys 2024: Best Poster Runner-Up Award
+* Columbia University Chairs' List of Academic Achievements 2023
+* Nanjing University People's Scholarship First Prize 2020
+* Nanjing University People's Scholarship Third Prize 2019
 
 <!-- Skills
 ======
