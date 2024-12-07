@@ -16,3 +16,5 @@ Here are some notes I took during learning interesting things.
 <a href="http://ajay0422.github.io/files/Understanding Diffusion Models: A Unified Perspective.html" target="_blank">[Study Notes] (Updating) Understanding Diffusion Models: A Unified Perspective</a>
 
 <a href="http://ajay0422.github.io/files/Flow Matching For Generative Modeling.html" target="_blank">[Study Notes] Flow Matching For Generative Modeling</a>
+
+<a href="http://ajay0422.github.io/files/Diffusion Schrodinger Bridge with Applications to Score-based Generative Modeling.html" target="_blank">[Study Notes] (Updating) Diffusion Schrodinger Bridge with Applications to Score-based Generative Modeling</a>
