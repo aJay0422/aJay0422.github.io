@@ -19,7 +19,7 @@ I love playing video games, singing songs, and playing the guitar. Please visit 
 
 Email: sdu14 AT ucmerced dot edu  
 
-(Last Updated: Dec 3, 2024)
+(Last Updated: Dec 10, 2024)
 <!-- Last updated: Oct 27, 2024 -->
 
 <!-- # Research Projects
