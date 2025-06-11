@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[CV(pdf)](http:ajay0422.githun.io/assets/CV_Shangjie.pdf)
 
+{% include base_path %}
 Education
 ======
 * B.S. in Statistics, Nanjing University, 2017-2021
