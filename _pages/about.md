@@ -10,6 +10,8 @@ redirect_from:
 
 Welcome to my website. I'm a second-year master student of ELectrical Engineering and Computer Science at UC Merced, advised by Professor [Meng Tang](http://mengtang.org/). Before that, I was a Ph.D student at UC Merced, advised by Professor [Shijia Pan](https://www.panslab.com/news)(23Aug-24Nov). I obtained my B.S. degree and M.A. degree in Statistics from Nanjing University and Columbia University in 2021 and 2022, respectively. My research interests include deep learning, computer vision, and vision-language model.
 
+Here are some [notes](https://ajay0422.github.io/posts/) I took through learning generative model if you're interested.
+
 
 <!-- Welcome to my website. I'm a second-year Ph.D. student of Electrical Engineering and Computer Science at UC Merced [PANS LAB](https://www.panslab.com/), advised
 by Prof. Shijia Pan. I obtained my B.S. degree and M.A. degree in Statistics from Nanjing University and Columbia University in 2021 and 2022, respectively.
@@ -19,7 +21,7 @@ Beside research, I love playing video games, singing songs, and playing the guit
 
 Email: sdu14 AT ucmerced dot edu  
 
-(Last Updated: Dec 10, 2024)
+(Last Updated: June 11, 2025)
 <!-- Last updated: Oct 27, 2024 -->
 
 <!-- # Research Projects
