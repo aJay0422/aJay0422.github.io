@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my website. I'm a second-year master student of ELectrical Engineering and Computer Science at UC Merced, advised by Professor [Meng Tang](http://mengtang.org/). Before that, I was a Ph.D student at UC Merced, advised by Professor [Shijia Pan](https://www.panslab.com/news)(23Aug-24Nov). I obtained my B.S. degree and M.A. degree in Statistics from Nanjing University and Columbia University in 2021 and 2022, respectively. My research interests include deep learning, computer vision, and vision-language model.
-For my detailed research projects, please refer to my [CV](http:ajay0422.github.io/assets/CV_Shangjie.pdf).
+For my detailed research projects, please refer to my [CV](http:ajay0422.github.io/assets/CV_Shangjie.pdf).  
 Here are some [notes](https://ajay0422.github.io/posts/) I took through learning generative model if you're interested.
 
 
