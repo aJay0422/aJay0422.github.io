@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV(pdf)](http:ajay0422.githun.io/assets/CV_Shangjie.pdf)
+[CV(pdf)](http:ajay0422.github.io/assets/CV_Shangjie.pdf)
 
 {% include base_path %}
 Education
